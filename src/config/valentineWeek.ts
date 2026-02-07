@@ -34,7 +34,7 @@ export const VALENTINE_WEEK: ValentineDay[] = [
 Every day I want to propose the same thing - let's keep choosing each other, over and over again.
 
 You're not just my valentine, you're my forever person. 💕`,
-    spotifyTrackId: "3d9DChrdc6BOeFsbrZ3Is0", // Replace with your song
+    spotifyTrackId: "3t3cbbcI1ktC6SjyO4NyR9", // Replace with your song
     gifUrl: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJhY2JhcnZkbGV0Nzd6dWRlMTRsbXE2MmR0N290ZnhkNmVneTh3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlGEX1ZORa0aIvu/giphy.gif",
     color: "pink",
   },
