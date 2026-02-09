@@ -44,12 +44,8 @@ You're not just my valentine, you're my forever person. 💕`,
     name: "Chocolate Day",
     emoji: "🍫",
     theme: "Sweet like you",
-    message: `Life with you is sweeter than the finest chocolate.
-
-You know what's better than chocolate? Sharing chocolate with you while we binge-watch our favorite shows!
-
-You're my favorite flavor of happiness. 🍫💝`,
-    spotifyTrackId: "6UelLqGlWMcVH1E5c4H7lY", // Replace with your song
+    message: `The most sweetest thing in my life is you. Life has been sweeter ever since I met you🍫💝`,
+    spotifyTrackId: "0qvzXomUDJVaUboy2wMfiS", // Replace with your song
     gifUrl: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWF0OWV1cGcweGJtY2N1b2p2ZHZiZ2YyY3B4YnVvb2xsYmd1cmxjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnMhJTwNHChdTZS/giphy.gif",
     color: "amber",
   },
